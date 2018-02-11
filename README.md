@@ -1,2 +1,2 @@
-# Is-it-Tuesday
+# Grace Kelly Repository
 Week 3 assesment
