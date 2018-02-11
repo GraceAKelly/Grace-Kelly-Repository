@@ -6,4 +6,8 @@
 
 #collatz.py contains collatz exercise
 
+#Tueday.py contains is it Tuesday exercise
+
+#if.py contains if loop exercise
+
 
