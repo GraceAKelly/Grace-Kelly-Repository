@@ -24,8 +24,27 @@ Uses the if, elif and else functions to test a value of a variable x if it is tr
 Tuesday.py
 Uses if and else statement in conjunction with datetime, today and weekday inbuilt functions to loop and determine if the day of the week is Tuesday
 
-Fizzbuzz.py
+[Fizzbuzz.py](https://en.wikipedia.org/wiki/Fizz_buzz)
 Uses while loop to replace any number divisible by three with the word "fizz", any number divisible by five with the word "buzz" and any word divisable by three and five is replaced with "fizzbuzz". This is achieved using if, elif and else function.
+
+Exercise 4: ProjectEuler5.py
+For loops and range
+[Project Euler Problem 5](https://projecteuler.net/problem=5\)
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+Exercise 5: openfile.py
+Reads the Iris data set in and prints the petal length, petal width, sepal length and sepal width with the decimal places aligned and a space between the columns. This is achived using the [split function]and [formatting output]
+
+Exercise 6: factorial.py
+Function called factorial() returns the factorial of a single integer input. The factorial of a number is that number multiplied by all of the positive numbers less than it. Within the script the values 5, 7, and 10 are tested. Differnt methods of calcuating factorial in Python is tested by importing the [reduce and mul functions](https://docs.python.org/2/library/functions.html#reduce)
+
+Additonal Practice Problems:
+
+
+
+
 
 
 
