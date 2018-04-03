@@ -21,9 +21,11 @@ Collatz.py contains a Python code which applies the Collatz conjecture. The code
 If.py
 Uses the if, elif and else functions to test a value of a variable x if it is true or false and make a decision on subesequent line of tests based on the output
 
-IsitTuesday.py
+Tuesday.py
+Uses if and else statement in conjunction with datetime, today and weekday inbuilt functions to loop and determine if the day of the week is Tuesday
 
 Fizzbuzz.py
+Uses while loop to replace any number divisible by three with the word "fizz", any number divisible by five with the word "buzz" and any word divisable by three and five is replaced with "fizzbuzz". This is achieved using if, elif and else function.
 
 
 
