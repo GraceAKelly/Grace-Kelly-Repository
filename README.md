@@ -16,18 +16,14 @@ The number system used given values assigned to the first & last letters of my s
 ![ASCII Table Image](https://upload.wikimedia.org/wikipedia/commons/2/26/Ascii-codes-table.png)
 
 Exercise 3: Collatz.py
-Collatz.py contains a Python code which applies the Collatz conjecture. The code starts with the integer 17 and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using a while loop and if statement. 
-[If & While Loop Statement](https://docs.python.org/3/tutorial/controlflow.html)
+Collatz.py contains a Python code which applies the Collatz conjecture. The code starts with the integer 17 and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using [If & While Loop Statements](https://docs.python.org/3/tutorial/controlflow.html)
+
+If.py
+
+IsitTuesday.py
+
+Fizzbuzz.py
 
 
-
-##fixxbuzz.py contains Fizzbuzz exercise--+
-
-
-
-##Tueday.py contains is it Tuesday exercise
-
-##The IF Function
-if.py contains if loop exercise
 
 
