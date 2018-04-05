@@ -41,6 +41,8 @@ Exercise 6: factorial.py
 Function called factorial() returns the factorial of a single integer input. The factorial of a number is that number multiplied by all of the positive numbers less than it. Within the script the values 5, 7, and 10 are tested. Differnt methods of calcuating factorial in Python is tested by importing the [reduce and mul functions](https://docs.python.org/2/library/functions.html#reduce)
 
 Additonal Practice Problems:
+Multiplesof35.py is [Project Euler Problem 1](https://projecteuler.net/problem=1) to find the sum of all the multiples of 3 or 5 below 1000.
+
 
 
 
