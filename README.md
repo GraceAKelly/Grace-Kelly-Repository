@@ -43,6 +43,9 @@ Function called factorial() returns the factorial of a single integer input. The
 Additonal Practice Problems:
 Multiplesof35.py is [Project Euler Problem 1](https://projecteuler.net/problem=1) to find the sum of all the multiples of 3 or 5 below 1000. Output is 233169.
 
+Licience
+-----------------------
+Apache
 
 
 
