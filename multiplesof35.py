@@ -10,5 +10,5 @@
 x = 1
 for i in range(1000): # all natural numbers below 1000
   if i % 3 == 0 or i % 5 == 0: # is is divisable by 3 or 5
-    x += i
+    x += i # x = x + i
 print (x)
