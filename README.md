@@ -47,6 +47,8 @@ Sumultiply.py Outputs the multiple of two inputs
 
 ispalindrome.py Test if a string is a palindrome ie. if string reads the same backwards as forwards using a loop to function to determine if character in 0th postion is the same as last postion
 
+simpleinterest.py Code to calculate the total amount repaid on a loan based on simple interest values inputted
+
 Licience
 -----------------------
 Apache License 2.0
