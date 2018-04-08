@@ -51,6 +51,7 @@ simpleinterest.py Code to calculate the total amount repaid on a loan based on s
 
 compoundinterest.py Calculates the total amount repaid on a loan based on compound interest values inputted
 
+newtonsroot.py Code that returns the square root of a number correct to six decimmal places based on [Newtons method](https://en.wikipedia.org/wiki/Newton%27s_method) to make an itial random guess and loop to find successively better approximations of the square root 
 
 Licience
 -----------------------
