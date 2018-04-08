@@ -8,12 +8,12 @@
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
-  i = 0
-  j = 1
-  n = n - 1
+  i = 0 # Define i
+  j = 1 # Define j
+  n = n - 1 # Define n
 
-  while n >= 0:
-    i, j = j, i + j
+  while n >= 0: # while n is greater than or equal to 0
+    i, j = j, i + j 
     n = n - 1
   
   return i
@@ -21,7 +21,7 @@ def fib(n):
 name = "Kelly"
 first = name[0]
 last = name[-1]
-firstno = ord(first)
+firstno = ord(first) #ord function returns the unique numeric value assigned in unicode for the given character input
 lastno = ord(last)
 x = firstno + lastno
 
