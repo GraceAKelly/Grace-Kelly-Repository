@@ -28,10 +28,8 @@ Uses if and else statement in conjunction with datetime, today and weekday inbui
 Uses while loop to replace any number divisible by three with the word "fizz", any number divisible by five with the word "buzz" and any word divisable by three and five is replaced with "fizzbuzz". This is achieved using if, elif and else function.
 
 Exercise 4: ProjectEuler5.py
-For loops and range [Project Euler Problem 5](https://projecteuler.net/problem=5\)
-2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
-
-What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+For loops and range [Project Euler Problem 5](https://projecteuler.net/problem=5)
+Calculates the smallest positive number that is evenly divisable by all of the numbers from 1 to 20 
 
 Exercise 5: openfile.py
 Reads the Iris data set in and prints the petal length, petal width, sepal length and sepal width with the decimal places aligned and a space between the columns. This is achived using the [split function](https://docs.python.org/2/library/string.html)and [formatting output](https://docs.python.org/3.4/library/string.html)
