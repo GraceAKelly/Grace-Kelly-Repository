@@ -19,7 +19,7 @@ Exercise 3: Collatz.py
 Collatz.py contains a Python code which applies the Collatz conjecture. The code starts with the integer 17 and repeatedly applies the Collatz function (divide by 2 if even, multiply by three and 1 if odd) using [If & While Loop Statements](https://docs.python.org/3/tutorial/controlflow.html)
 
 If.py
-Uses the if, elif and else functions to test a value of a variable x if it is true or false and make a decision on subesequent line of tests based on the output
+Uses the if, elif and else functions to test a value of a variable x if it is true or false and make a decision on subsequent line of tests based on the output
 
 Tuesday.py
 Uses if and else statement in conjunction with datetime, today and weekday inbuilt functions to loop and determine if the day of the week is Tuesday
