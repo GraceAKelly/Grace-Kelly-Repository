@@ -35,10 +35,10 @@ For loops and range
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 Exercise 5: openfile.py
-Reads the Iris data set in and prints the petal length, petal width, sepal length and sepal width with the decimal places aligned and a space between the columns. This is achived using the [split function]and [formatting output]
+Reads the Iris data set in and prints the petal length, petal width, sepal length and sepal width with the decimal places aligned and a space between the columns. This is achived using the [split function](https://docs.python.org/2/library/string.html)and [formatting output](https://docs.python.org/3.4/library/string.html)
 
 Exercise 6: factorial.py
-Function called factorial() returns the factorial of a single integer input. The factorial of a number is that number multiplied by all of the positive numbers less than it. Within the script the values 5, 7, and 10 are tested. Differnt methods of calcuating factorial in Python is tested by importing the [reduce and mul functions](https://docs.python.org/2/library/functions.html#reduce)
+Function called factorial() returns the factorial of a single integer input. The factorial of a number is that number multiplied by all of the positive numbers less than it. Within the script the values 5, 7, and 10 are tested. Different methods of calcuating factorial in Python is tested by importing the [reduce and mul functions](https://docs.python.org/2/library/functions.html#reduce)
 
 Additonal Practice Problems:
 Multiplesof35.py is [Project Euler Problem 1](https://projecteuler.net/problem=1) to find the sum of all the multiples of 3 or 5 below 1000. Output is 233169.
