@@ -49,6 +49,9 @@ ispalindrome.py Test if a string is a palindrome ie. if string reads the same ba
 
 simpleinterest.py Code to calculate the total amount repaid on a loan based on simple interest values inputted
 
+compoundinterest.py Calculates the total amount repaid on a loan based on compound interest values inputted
+
+
 Licience
 -----------------------
 Apache License 2.0
